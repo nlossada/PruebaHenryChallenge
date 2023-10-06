@@ -22,8 +22,8 @@ function numeroSimetrico(num) {
   }
 
 }
-console.log(numeroSimetrico(12345));
-console.log(numeroSimetrico(11711));
+// console.log(numeroSimetrico(12345));
+// console.log(numeroSimetrico(11711));
 
 // No modifiques nada debajo de esta linea //
 
